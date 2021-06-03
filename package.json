@@ -81,7 +81,7 @@
     "lodash": "^4.17.10",
     "marks-pane": "^1.0.9",
     "path-webpack": "0.0.3",
-    "stream-browserify": "^2.0.1",
+    "stream-browserify": "^2.0.2",
     "xmldom": "^0.1.27"
   }
 }
